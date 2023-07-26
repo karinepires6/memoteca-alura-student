@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você está aqui",
+      "autoria": "Karine",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Karine Estudante",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Conhecimento nunca é demais",
+      "autoria": "Karine Desenvolvedora",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "novo pensamento de teste edição",
+      "autoria": "karine desenvolvedora e estudante",
+      "modelo": "modelo3",
+      "id": 4
+    }
+  ]
+}
